@@ -1,2 +1,22 @@
-# golang-channels
-Example of how to pass a variable from one goroutine to another through a channel
+# Channels
+
+## Usage
+
+1. Clone this repository
+
+``` bash
+$ git clone https://github.com/jeastman19/golang-channels.git
+```
+
+2. Build the executable
+
+``` bash
+$ cd <project folder>
+$ go build main.go
+```
+
+3. Execute the sample
+
+``` bash
+$ ./main
+```
